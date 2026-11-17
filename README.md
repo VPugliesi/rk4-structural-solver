@@ -1,4 +1,4 @@
-# rk4-structural-solver
+# Nonlinear Seismic Structural Dynamics Solver (RK4)
 Custom Python Fourth-Order Runge-Kutta (RK4) solver for modeling nonlinear building response under earthquake loading, including analytical verification and parameter sensitivity analysis.
 
 ## Mathematical Model
